@@ -6,6 +6,7 @@ __Bachelor of Science in Accounting__ Dec. 2023
 Brigham Young University–Idaho
 
 •	Area of interest: Tax
+
 •	Emphasis: Data Science
 
 #### Experience

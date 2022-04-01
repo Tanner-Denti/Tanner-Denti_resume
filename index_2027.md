@@ -1,85 +1,40 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Tanner Denti's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+### Tanner Denti
+#### Education
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-</div>
+__Bachelor of Science in Accounting__ Dec. 2023
+Brigham Young University–Idaho
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+•	Area of interest: Tax
+•	Emphasis: Data Science
 
+#### Experience
+__Student Support Chat Team Employee	Sep. 2020 – Present__
+BYU-Idaho	Rexburg, ID
+•	Assist students, parents, and faculty discover specific answers to their various issues
+•	Direct anywhere from 1-5 customers at a time
+•	Research a variety of subjects to learn about school policies for financial aid, accounting, IT, international affairs, etc.
+__Online Grocery Pickup Associate	Jul. 2020 – Sep. 2020__
+Walmart	Rexburg, ID
+•	Filled large orders of hundreds of items of inventory for customers
+•	Organized and prepared hundreds of orders to be picked up by customers
+__Construction Laborer	Jan. 2018 – Dec. 2019__
+Centra Homes	Minneapolis, MN
+•	Spent 10-hour days with a team of laborers
+•	Completed many tasks relating to construction, renovation, and demolition
+•	Found creative ways to provide solutions to various problems
+__Lifeguard	Apr. 2016 – Jun. 2018__
+YMCA	Fort Worth, TX; Minneapolis, MN
+•	Ensured the safety of YMCA patrons, enforced rules, and watched for struggling swimmers
+•	Trained in CPR, First Aid, and AED
 
-## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+#### Interests/Skills
+•	Spent many long high school hours wrestling on varsity
+•	Learned how to solve a Rubix cube in 30 seconds
+•	Organize social events centered around board games
 
 <!-- ### Footer
 

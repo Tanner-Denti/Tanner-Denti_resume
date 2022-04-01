@@ -1,7 +1,4 @@
----
-layout: resume
-title: Tanner Denti's Resume
----
+
 ### Tanner Denti
 #### Education
 
